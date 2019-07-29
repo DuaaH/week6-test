@@ -2,6 +2,9 @@
 
 This project has a server, front-end and a database, the server and front-end have been set up for you.
 
+# site:
+https://week6testt.herokuapp.com/
+
 ### Tasks:
 - Create a database.
 - Build a database connection.
